@@ -12,3 +12,7 @@ Description: "Vaccine Product codes, containing the different available products
 * #7680007030014 "M-M-RvaxPRO"
   * ^property[+].code = #classification
   * ^property[=].valueCode = #XM8TF3
+* #0123456789 "Catopian Pharama Inc. Measles Vaccine"
+  * ^property[+].code = #classification
+  * ^property[=].valueCode = #XM8TF3
+
