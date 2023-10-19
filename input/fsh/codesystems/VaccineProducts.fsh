@@ -14,5 +14,5 @@ Description: "Vaccine Product codes, containing the different available products
   * ^property[=].valueCode = #XM8TF3
 * #0123456789 "Catopian Pharma Inc. Measles Vaccine"
   * ^property[+].code = #classification
-  * ^property[=].valueCode = #XM8TF3
+  * ^property[=].valueCode = #XM28X5
 
